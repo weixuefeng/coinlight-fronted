@@ -1,0 +1,16 @@
+#node
+node_modules
+
+#next
+.next
+out/
+
+# misc
+.DS_Store
+*.pem
+
+
+# error
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
