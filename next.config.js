@@ -4,7 +4,8 @@
 const nextConfig = {
   images: {
     loader: "default",
-    domains: ["localhost"],
+    domains: ["api-coinlight.newb.club"],
+    url: "https://api-coinlight.newb.club",
   },
 }
 
